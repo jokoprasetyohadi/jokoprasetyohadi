@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" fill="none" role="img" aria-labelledby="title desc">
+  <title id="title">Joko Prasetyo Hadi — Full-stack developer and product builder</title>
+  <desc id="desc">A dark editorial banner with mint accents and three abstract layers representing web, API, and production systems.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="360" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#111D24"/>
+      <stop offset="1" stop-color="#081014"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="778" y1="38" x2="1114" y2="324" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#8CF6CB"/>
+      <stop offset="1" stop-color="#4096AA"/>
+    </linearGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0V32" stroke="#8CF6CB" stroke-opacity=".055"/>
+    </pattern>
+  </defs>
+  <rect width="1200" height="360" rx="20" fill="url(#bg)"/>
+  <rect x="716" width="484" height="360" rx="20" fill="url(#grid)"/>
+  <path d="M0 335H1200" stroke="#8CF6CB" stroke-opacity=".12"/>
+  <rect x="52" y="46" width="7" height="17" rx="2" fill="#8CF6CB"/>
+  <text x="72" y="60" fill="#9BB4BB" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="700" letter-spacing="2.2">FULL-STACK DEVELOPER / PRODUCT BUILDER</text>
+  <text x="50" y="138" fill="#F0F7F6" font-family="Arial, Helvetica, sans-serif" font-size="58" font-weight="700" letter-spacing="-2">Joko</text>
+  <text x="50" y="207" fill="#F0F7F6" font-family="Arial, Helvetica, sans-serif" font-size="58" font-weight="700" letter-spacing="-2">Prasetyo Hadi<tspan fill="#8CF6CB">.</tspan></text>
+  <text x="53" y="254" fill="#B6C8CD" font-family="Arial, Helvetica, sans-serif" font-size="20">Web products. Developer APIs. Production systems.</text>
+  <text x="53" y="307" fill="#8CF6CB" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="700" letter-spacing="1.2">OWNER OF VEVIOZ</text>
+  <circle cx="232" cy="302" r="2" fill="#627B84"/>
+  <text x="248" y="307" fill="#9BB4BB" font-family="Arial, Helvetica, sans-serif" font-size="14" letter-spacing="1.2">BUILDING CILUV</text>
+  <g stroke="url(#accent)" stroke-width="1.5" stroke-linejoin="round">
+    <path d="M792 230L963 139L1134 230L963 321Z" fill="#0B171D"/>
+    <path d="M792 191L963 100L1134 191L963 282Z" fill="#10252D"/>
+    <path d="M792 152L963 61L1134 152L963 243Z" fill="#173A41"/>
+  </g>
+  <path d="M915 142L895 152L915 162M1011 142L1031 152L1011 162M975 128L951 176" stroke="#A4FFDD" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="792" cy="152" r="4" fill="#8CF6CB"/>
+  <circle cx="1134" cy="191" r="4" fill="#8CF6CB"/>
+  <circle cx="963" cy="321" r="4" fill="#8CF6CB"/>
+  <path d="M758 56H731V83M1145 305H1172V278" stroke="#8CF6CB" stroke-opacity=".5"/>
+</svg>
