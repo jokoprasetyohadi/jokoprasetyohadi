@@ -1,6 +1,11 @@
 <p align="center">
-  <img src="./assets/profile-banner.svg" alt="Joko Prasetyo Hadi — Full-stack developer and product builder. Web, APIs and production systems." width="100%" />
+  <picture>
+    <source media="(prefers-reduced-motion: reduce)" srcset="./assets/profile-banner.svg" />
+    <img src="./assets/profile-banner.gif" alt="Joko Prasetyo Hadi — Full-stack developer and product builder. Web, APIs and production systems." width="100%" />
+  </picture>
 </p>
+
+<p align="right"><sub><a href="./assets/profile-banner.svg">View static banner</a></sub></p>
 
 <p align="center">
   <a href="https://www.vevioz.com/"><strong>Vevioz</strong></a> &nbsp; / &nbsp;
